@@ -1,7 +1,7 @@
 
 function OfferPool() {
 
-return <div>Offer pool page</div>
+return <div>Offer pool page ..</div>
 
 }
 
