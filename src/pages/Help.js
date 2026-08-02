@@ -6,7 +6,7 @@ function Help() {
   return (
 
     <div className="page">
-       Help page
+       Help page ..
     </div>
 
   );
